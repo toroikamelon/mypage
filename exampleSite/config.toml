@@ -161,7 +161,9 @@ home = ["HTML"]
 [params]
 author = "Themefisher"
 description = "This is meta description"
-
+image = "images/logo.png"
+logo = "images/logo.png"
+logo_width = "160px"
 [params.contact]
 address_descriptors = false
 email = "demo@email.com"
