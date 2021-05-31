@@ -41,7 +41,6 @@ weight = 6
 hasChildren = true
 name = "More"
 weight = 5
-weight = ""
 
 
 [languages.en]
